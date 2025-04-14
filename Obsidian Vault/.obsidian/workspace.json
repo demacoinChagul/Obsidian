@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "c02641722e3718e5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "3899df5b13270b77",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2abd76608372d927",
+  "active": "c02641722e3718e5",
   "lastOpenFiles": [
     "프로그래밍/Pasted image 20240626103013.png",
     "프로그래밍/게임 서버 공부.md",
