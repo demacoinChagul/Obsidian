@@ -61,8 +61,7 @@
               "title": "게임 서버 공부"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +239,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c02641722e3718e5",
+  "active": "91d6a378287dfd3f",
   "lastOpenFiles": [
     "프로그래밍/Pasted image 20240626103013.png",
     "프로그래밍/게임 서버 공부.md",
