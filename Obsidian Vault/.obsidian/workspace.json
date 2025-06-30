@@ -46,9 +46,23 @@
               "icon": "lucide-file",
               "title": "게임 서버 공부"
             }
+          },
+          {
+            "id": "46d6a264e6b85301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/게임 서버 공부.md",
+                "file": "무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "게임 서버 공부 의 개요"
+              "title": "무제 의 개요"
             }
           },
           {
@@ -226,10 +240,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3899df5b13270b77",
+  "active": "46d6a264e6b85301",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "프로그래밍/게임 서버 공부.md",
+    "무제.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20250414151800.png",
     "Pasted image 20250414151451.png",
     "Pasted image 20250414151105 1.png",
@@ -263,7 +278,6 @@
     "프로그래밍/프로그래밍 공부.md",
     "공부/컴퓨터 구조.md",
     "공부/좆 같은 정처기.md",
-    "공부/수행평가.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
     "공부/재학생 컴퍼런스",
