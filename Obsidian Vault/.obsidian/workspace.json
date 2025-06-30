@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제.md",
+                "file": "테스트용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "테스트용"
             }
           }
         ],
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제.md",
+                "file": "테스트용.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "테스트용 의 개요"
             }
           },
           {
@@ -243,7 +243,7 @@
   "active": "46d6a264e6b85301",
   "lastOpenFiles": [
     "프로그래밍/게임 서버 공부.md",
-    "무제.md",
+    "테스트용.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20250414151800.png",
     "Pasted image 20250414151451.png",
