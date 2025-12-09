@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "테스트용"
             }
+          },
+          {
+            "id": "6d3d3a994fc2e907",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,13 +203,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "테스트용.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "테스트용 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -240,7 +251,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46d6a264e6b85301",
+  "active": "6d3d3a994fc2e907",
   "lastOpenFiles": [
     "프로그래밍/게임 서버 공부.md",
     "테스트용.md",
