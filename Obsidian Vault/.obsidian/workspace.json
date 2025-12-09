@@ -79,12 +79,14 @@
             "id": "303d66316830df96",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "프로그래밍/게임 서버 공부.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.10.6"
+              "icon": "lucide-file",
+              "title": "게임 서버 공부"
             }
           }
         ],
@@ -217,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/자료구조.md",
+                "file": "프로그래밍/게임 서버 공부.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "자료구조 의 개요"
+              "title": "게임 서버 공부 의 개요"
             }
           },
           {
