@@ -65,12 +65,14 @@
             "id": "6d3d3a994fc2e907",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "프로그래밍/게임 서버 공부.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "게임 서버 공부"
             }
           }
         ],
@@ -203,12 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "프로그래밍/게임 서버 공부.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "게임 서버 공부 의 개요"
             }
           },
           {
@@ -253,6 +256,7 @@
   },
   "active": "6d3d3a994fc2e907",
   "lastOpenFiles": [
+    "공부/전공.md",
     "프로그래밍/게임 서버 공부.md",
     "테스트용.md",
     "conflict-files-obsidian-git.md",
@@ -288,7 +292,6 @@
     "프로그래밍/Nodejs.md",
     "프로그래밍/프로그래밍 공부.md",
     "공부/컴퓨터 구조.md",
-    "공부/좆 같은 정처기.md",
     "공부/공부 자료/Game Project/Team Project/Trick or picture/A팀 계획서.txt",
     "공부/공부 자료/Game Project/Team Project/Trick or picture",
     "공부/재학생 컴퍼런스",
